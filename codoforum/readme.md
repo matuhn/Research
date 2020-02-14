@@ -8,6 +8,7 @@
 ![](https://github.com/matuhn/Research/raw/master/codoforum/3.png)
 ### Vendor confirmed
 ![](https://github.com/matuhn/Research/raw/master/codoforum/image.png)
+![](https://github.com/matuhn/Research/raw/master/codoforum/20200214_072124.jpg)
 # REPORT TIMELINE
 # 02/13/2020: Discovered the vulnerability
 # 02/13/2020: Vendor confirmed
