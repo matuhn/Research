@@ -12,3 +12,4 @@
 # REPORT TIMELINE
 # 02/13/2020: Discovered the vulnerability
 # 02/13/2020: Vendor confirmed
+# 02/17/2020: CVE-2020-9007
