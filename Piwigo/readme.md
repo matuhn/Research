@@ -1,4 +1,4 @@
-# This is what I achived when research on [Codoforum 2.10.1](https://piwigo.org/)
+# This is what I achived when research on [Piwigo 2.10.1](https://piwigo.org/)
 ## Stored XSS in /admin.php?page=permalinks
 ### Exploit request
 
