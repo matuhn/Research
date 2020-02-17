@@ -54,3 +54,7 @@ pwg_token=c8dea9237930ccb48c6d1a4e5020b32b&add_tag=%3Csvg%2Fonload%3Dalert%28doc
 # 02/12/2020: Discovered the vulnerability
 # 02/12/2020: Contact vendor to confirm the vulnerability
 # 02/17/2020: Contact MITRE because vendor is unresponsive
+
+### References
+# https://github.com/Piwigo/Piwigo/issues/1158
+# https://github.com/Piwigo/Piwigo/issues/1157
