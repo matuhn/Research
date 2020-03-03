@@ -20,6 +20,7 @@
 
 # REPORT TIMELINE
 # 02/24/2020: Discovered the vulnerability
+# 03/03/2020: Vendor confirmed
 
 ## Reflected XSS
 ### Go to : http://URL/codo/index.php?u=user/profile/11110%22%20accesskey=%22X%22%20onclick=%22alert(1)
@@ -27,3 +28,5 @@
 
 # REPORT TIMELINE
 # 02/24/2020: Discovered the vulnerability
+# 03/03/2020: Vendor confirmed
+![](https://github.com/matuhn/Research/raw/master/codoforum/confirm.png)
